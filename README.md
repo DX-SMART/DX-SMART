@@ -10,9 +10,9 @@ DX-SMART 专注于物联网无线模块的技术研发与资料共享，为开�
 - [WIFIMODULE](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FDX-SMART%2FWIFIMODULE&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)：WiFi 模块资料包
 
 # Contact Us
-## SHEN ZHEN DX-SMART TECHNOLOGY CO.,LTD 
-## Email: manager@szdx-smart.com 
-## Tel:0755-2997 8125 
-## Whatsapp:+86 15798463070 
-## Website: en.szdx-smart.com 
-## Address: 601, A1 Block, Huafengzhigu, Hang Kong Road, Hang Cheng Street, Baoan District Shenzhen 
+### SHEN ZHEN DX-SMART TECHNOLOGY CO.,LTD 
+### Email: manager@szdx-smart.com 
+### Tel:0755-2997 8125 
+### Whatsapp:+86 15798463070 
+### Website: en.szdx-smart.com 
+### Address: 601, A1 Block, Huafengzhigu, Hang Kong Road, Hang Cheng Street, Baoan District Shenzhen 
