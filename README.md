@@ -51,7 +51,7 @@ Search your module model for step-by-step tutorials.
 ## 🤝 Get in Touch
 **SHEN ZHEN DX-SMART TECHNOLOGY CO.,LTD**
 
-- 📧 Email: manager@szdx-smart.com
+- 📧 Email: [manager@szdx-smart.com](mailto:manager@szdx-smart.com)
 - 📞 Tel: 0755-2997 8125
 - 💬 WhatsApp: +86 15798463070
 - 🌐 Website: [en.szdx-smart.com](https://en.szdx-smart.com/)
