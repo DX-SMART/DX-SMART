@@ -30,7 +30,7 @@ Browse the repository list above to find the folder corresponding to your module
 
 ### ② Google Drive
 High-speed download & centralized storage.
-Link: https://drive.google.com/drive/u/0/folders/1t2KQ4oRbOyQuTkcjaJWZ9tdry7
+Link: (https://drive.google.com/drive/u/0/folders/1tHdbces2KQ4oRbOyQuTkcjaJWZ9tdry7)
 - Search your module model (e.g., BT24, LR02, WF24)
 - Download the complete resource package directly
 
