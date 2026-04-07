@@ -1,5 +1,9 @@
 # Welcome to DX-SMART's GitHub
 DX-SMART focuses on the R&D and resource sharing of IoT wireless modules, providing developers with complete module data packages, development guides and technical support.
+Thank you for choosing DX-SMART products.
+If you encounter any issues during use, please contact our support team before leaving feedback. We are committed to providing you with professional and timely technical support to ensure the best experience.
+
+Your satisfaction is our top priority.
 
 ---
 
@@ -14,14 +18,6 @@ Click the link below to access the corresponding module resource package:
 - [WIRELESS-ADAPTER](https://github.com/DX-SMART/WIRELESS-ADAPTER): Wireless Adapter Package
 - [2.4GhzModule](https://github.com/DX-SMART/2.4GhzModule): 2.4G Wireless Module Package
 - [GPS-MODULE](https://github.com/DX-SMART/GPS-MODULE): GPS Positioning Module Package
-
----
-
-## 📢 To Our Valued Customers
-Thank you for choosing DX-SMART products.
-If you encounter any issues during use, please contact our support team before leaving feedback. We are committed to providing you with professional and timely technical support to ensure the best experience.
-
-Your satisfaction is our top priority.
 
 ---
 
