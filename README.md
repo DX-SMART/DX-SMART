@@ -41,15 +41,6 @@ Path: Support → Data Download
 
 ---
 
-## 📂 What’s Included in Each Package
-Each module package includes most of the following resources:
-- 📘 User Manual
-- 📑 Technical Datasheet
-- 🔧 Firmware & Configuration Tools
-- 📐 Hardware Dimension & Pin Definition
-- 🛠 Development Guide & Application Examples
-
----
 
 ## 🎬 Video Tutorials
 YouTube Official Channel: https://www.youtube.com/@DX-SMART
