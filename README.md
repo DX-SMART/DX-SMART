@@ -5,15 +5,15 @@ DX-SMART focuses on the R&D and resource sharing of IoT wireless modules, provid
 
 ## 📦 Module Repository
 Click the link below to access the corresponding module resource package:
-- [BLUETOOTH-BEACON](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FDX-SMART%2FBLUETOOTH-BEACON&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=): Bluetooth BEACON Module Package
-- [LORAMODULE](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FDX-SMART%2FLORAMODULE&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=): LoRa Low Power Module Package
-- [LORAWANMODULE](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FDX-SMART%2FLORAWANMODULE&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=): LoRaWAN Module Package
-- [BLUETOOTH-MODULE](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FDX-SMART%2FBLUETOOTH-MODULE&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=): Bluetooth Module Package
-- [GPS-MODULE](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FDX-SMART%2FGPS-MODULE&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=): GPS Positioning Module Package
-- [MCU-CASEDATA](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FDX-SMART%2FMCU-CASEDATA&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=): MCU Case Data Package
-- [WIFIMODULE](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FDX-SMART%2FWIFIMODULE&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=): WiFi Module Package
-- [WIRELESS-ADAPTER](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FDX-SMART%2FWIRELESS-ADAPTER&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=): Wireless Adapter Package
-- [2.4GhzModule](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FDX-SMART%2F2.4GhzModule&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=): 2.4G Wireless Module Package
+- [BLUETOOTH-BEACON](https://github.com/DX-SMART/BLUETOOTH-BEACON): Bluetooth BEACON Module Package
+- [LORAMODULE](https://github.com/DX-SMART/LORAMODULE): LoRa Low Power Module Package
+- [LORAWANMODULE](https://github.com/DX-SMART/LORAWANMODULE): LoRaWAN Module Package
+- [BLUETOOTH-MODULE](https://github.com/DX-SMART/BLUETOOTH-MODULE): Bluetooth Module Package
+- [WIFIMODULE](https://github.com/DX-SMART/WIFIMODULE): WiFi Module Package
+- [MCU-CASEDATA](https://github.com/DX-SMART/MCU-CASEDATA): MCU Case Data Package
+- [WIRELESS-ADAPTER](https://github.com/DX-SMART/WIRELESS-ADAPTER): Wireless Adapter Package
+- [2.4GhzModule](https://github.com/DX-SMART/2.4GhzModule): 2.4G Wireless Module Package
+- [GPS-MODULE](https://github.com/DX-SMART/GPS-MODULE): GPS Positioning Module Package
 
 ---
 
