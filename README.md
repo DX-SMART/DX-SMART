@@ -4,15 +4,15 @@ DX-SMART 专注于物联网无线模块的技术研发与资料共享，为开�
 
 ## 模块资料仓库
 ## 模块资料仓库
-- [2.4GhzModule：2.4G 无线模块资料包](https://github.com/DX-SMART/BLUETOOTH-BEACON)
 - [BLUETOOTH-BEACON: 蓝牙 BEACON 模块资料包](https://github.com/DX-SMART/BLUETOOTH-BEACON)
-- [BLUETOOTH-MODULE：蓝牙模块资料包](https://github.com/DX-SMART/BLUETOOTH-MODULE)
-- [GPS-MODULE：GPS 定位模块资料包](https://github.com/DX-SMART/GPS-MODULE)
 - [LORAMODULE：LoRa 低功耗模块资料包](https://github.com/DX-SMART/LORAMODULE)
 - [LORAWANMODULE：LoRaWAN 模块资料包](https://github.com/DX-SMART/LORAWANMODULE)
+- [BLUETOOTH-MODULE：蓝牙模块资料包](https://github.com/DX-SMART/BLUETOOTH-MODULE)
+- [GPS-MODULE：GPS 定位模块资料包](https://github.com/DX-SMART/GPS-MODULE)
 - [MCU-CASEDATA：MCU 外壳数据资料包](https://github.com/DX-SMART/MCU-CASEDATA)
 - [WIFIMODULE：WiFi 模块资料包](https://github.com/DX-SMART/WIFIMODULE)
 - [WIRELESS-ADAPTER：无线适配器资料包](https://github.com/DX-SMART/WIRELESS-ADAPTER)
+- [2.4GhzModule：2.4G 无线模块资料包](https://github.com/DX-SMART/BLUETOOTH-BEACON)
 
 ### 🤝 Get in Touch
 ---
