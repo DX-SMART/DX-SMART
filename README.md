@@ -51,10 +51,10 @@ Search your module model for step-by-step tutorials.
 ## 🤝 Get in Touch
 **SHEN ZHEN DX-SMART TECHNOLOGY CO.,LTD**
 
-- 📧 Email: [manager@szdx-smart.com](sslocal://flow/file_open?url=mailto%3Amanager%40szdx-smart.com&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- 📧 Email: [manager@szdx-smart.com]
 - 📞 Tel: 0755-2997 8125
-- 💬 WhatsApp: [+86 15798463070](sslocal://flow/file_open?url=https%3A%2F%2Fwa.me%2F8615798463070&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- 🌐 Website: [en.szdx-smart.com](sslocal://flow/file_open?url=https%3A%2F%2Fen.szdx-smart.com&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- 💬 WhatsApp: [+86 15798463070]
+- 🌐 Website: [en.szdx-smart.com](https://en.szdx-smart.com/)
 - 📍 Address: 601, A1 Block, Huafengzhigu, Hang Kong Road, Hang Cheng Street, Baoan District, Shenzhen
 
 ---
