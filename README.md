@@ -13,10 +13,10 @@ Click the link below to access the corresponding module resource package:
 - [LORAMODULE](https://github.com/DX-SMART/LORAMODULE): LoRa Low Power Module Package
 - [LORAWANMODULE](https://github.com/DX-SMART/LORAWANMODULE): LoRaWAN Module Package
 - [BLUETOOTH-MODULE](https://github.com/DX-SMART/BLUETOOTH-MODULE): Bluetooth Module Package
-- [WIFIMODULE](https://github.com/DX-SMART/WIFIMODULE): WiFi Module Package
+- [WIFI-MODULE](https://github.com/DX-SMART/WIFIMODULE): WiFi Module Package
 - [MCU-CASEDATA](https://github.com/DX-SMART/MCU-CASEDATA): MCU Case Data Package
 - [WIRELESS-ADAPTER](https://github.com/DX-SMART/WIRELESS-ADAPTER): Wireless Adapter Package
-- [2.4GhzModule](https://github.com/DX-SMART/2.4GhzModule): 2.4G Wireless Module Package
+- [2.4Ghz-Module](https://github.com/DX-SMART/2.4GhzModule): 2.4G Wireless Module Package
 - [GPS-MODULE](https://github.com/DX-SMART/GPS-MODULE): GPS Positioning Module Package
 
 ---
