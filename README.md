@@ -30,10 +30,8 @@ Browse the repository list above to find the folder corresponding to your module
 
 ### ⚙ Google Drive
 High-speed download & centralized storage for all DX-SMART module resources.
-Link: https://drive.google.com/drive
-- **Step 1**: Open the link above, and search **DX-SMART** in the Google Drive search bar
-- **Step 2**: Enter the DX-SMART resource folder, then search your module model (e.g., BT24, LR02, WF24)
-- **Step 3**: Download the complete resource package directly
+Link: https://drive.google.com/drive/folders/1tHdbces2KQ4oRbOyQuTkcjaJWZ9tdry7
+find your module model (e.g., BT24, LR02, WF24),Download the complete resource package directly
 
 ### ③ Official Website
 Visit our official website for product info and support section:
