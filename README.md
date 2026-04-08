@@ -28,7 +28,7 @@ We provide **three official channels** for you to download the latest documents,
 All official resources are maintained and updated here.
 Browse the repository list above to find the folder corresponding to your module model.
 
-### ⚙ Google Drive
+### ② Google Drive
 High-speed download & centralized storage for all DX-SMART module resources.
 Link: https://drive.google.com/drive/folders/1tHdbces2KQ4oRbOyQuTkcjaJWZ9tdry7
 
