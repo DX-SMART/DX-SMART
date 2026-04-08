@@ -10,7 +10,7 @@ Your satisfaction is our top priority.
 ## 📦 Module Repository
 Click the link below to access the corresponding module resource package:
 - [BLUETOOTH-BEACON](https://github.com/DX-SMART/BLUETOOTH-BEACON): Bluetooth BEACON Module Package
-- [LORA-MODULE](https://github.com/DX-SMART/LORAMODULE): LoRa-Module Package
+- [LORA-MODULE](https://github.com/DX-SMART/LORAMODULE): LoRa Module Package
 - [LORAWANMODULE](https://github.com/DX-SMART/LORAWANMODULE): LoRaWAN Module Package
 - [BLUETOOTH-MODULE](https://github.com/DX-SMART/BLUETOOTH-MODULE): Bluetooth Module Package
 - [WIFI-MODULE](https://github.com/DX-SMART/WIFIMODULE): WiFi Module Package
@@ -31,6 +31,7 @@ Browse the repository list above to find the folder corresponding to your module
 ### ⚙ Google Drive
 High-speed download & centralized storage for all DX-SMART module resources.
 Link: https://drive.google.com/drive/folders/1tHdbces2KQ4oRbOyQuTkcjaJWZ9tdry7
+
 find your module model (e.g., BT24, LR02, WF24),Download the complete resource package directly
 
 ### ③ Official Website
