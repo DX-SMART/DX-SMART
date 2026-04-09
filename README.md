@@ -11,10 +11,9 @@ Your satisfaction is our top priority.
 Click the link below to access the corresponding module resource package:
 - [BLUETOOTH-BEACON](https://github.com/DX-SMART/BLUETOOTH-BEACON): Bluetooth BEACON Module Package
 - [LORA-MODULE](https://github.com/DX-SMART/LORAMODULE): LoRa Module Package
-- [LORAWANMODULE](https://github.com/DX-SMART/LORAWANMODULE): LoRaWAN Module Package
+- [LORAWAN-MODULE](https://github.com/DX-SMART/LORAWANMODULE): LoRaWAN Module Package
 - [BLUETOOTH-MODULE](https://github.com/DX-SMART/BLUETOOTH-MODULE): Bluetooth Module Package
 - [WIFI-MODULE](https://github.com/DX-SMART/WIFIMODULE): WiFi Module Package
-- [MCU-CASEDATA](https://github.com/DX-SMART/MCU-CASEDATA): MCU Case Data Package
 - [WIRELESS-ADAPTER](https://github.com/DX-SMART/WIRELESS-ADAPTER): Wireless Adapter Package
 - [2.4Ghz-Module](https://github.com/DX-SMART/2.4GhzModule): 2.4G Wireless Module Package
 - [GPS-MODULE](https://github.com/DX-SMART/GPS-MODULE): GPS Positioning Module Package
@@ -52,7 +51,6 @@ Search your module model for step-by-step tutorials.
 **SHEN ZHEN DX-SMART TECHNOLOGY CO.,LTD**
 
 - 📧 Email: [manager@szdx-smart.com](mailto:manager@szdx-smart.com)
-- 📞 Tel: 0755-2997 8125
 - 💬 WhatsApp: +86 15798463070
 - 🌐 Website: [en.szdx-smart.com](https://en.szdx-smart.com/)
 - 📍 Address: 601, A1 Block, Huafengzhigu, Hang Kong Road, Hang Cheng Street, Baoan District, Shenzhen
