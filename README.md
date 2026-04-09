@@ -57,6 +57,16 @@ Search your module model for step-by-step tutorials.
 
 ---
 
-## 🧩 Customization Service
-We support **OEM / ODM** for Bluetooth, LoRa, WiFi, GPS, and Beacon modules.
-Welcome to contact us for personalized solutions.
+### 🛠️ Customization Service
+We provide comprehensive **customization services** for all DX-SMART wireless modules, covering software, hardware, and overall solutions to meet your unique project needs.
+
+#### ✅ Software Customization
+We can develop and customize programs for wireless modules according to your specific software requirements, including firmware optimization, function development, and protocol customization.
+
+#### ✅ Hardware Customization
+We offer customized PCBA solutions tailored to your hardware needs, supporting circuit design, hardware modification, and structural optimization.
+
+#### ✅ Solution Customization
+We provide end-to-end overall solution customization and development based on your project requirements, helping you quickly complete product deployment and launch.
+
+We support **OEM / ODM** for Bluetooth, LoRa, WiFi, GPS, and Beacon modules. Welcome to contact us for personalized solutions.
