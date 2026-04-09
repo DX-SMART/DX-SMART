@@ -20,6 +20,12 @@ Click the link below to access the corresponding module resource package:
 
 ---
 
+## 🎬 Video Tutorials
+YouTube Official Channel: https://www.youtube.com/@DX-SMART
+Search your module model for step-by-step tutorials.
+
+---
+
 ## 📥 Three Ways to Get Product Resources
 We provide **three official channels** for you to download the latest documents, firmware, and tools.
 
@@ -27,23 +33,11 @@ We provide **three official channels** for you to download the latest documents,
 All official resources are maintained and updated here.
 Browse the repository list above to find the folder corresponding to your module model.
 
-### ② Google Drive
-High-speed download & centralized storage for all DX-SMART module resources.
-Link: https://drive.google.com/drive/folders/1tHdbces2KQ4oRbOyQuTkcjaJWZ9tdry7
+### ② [Google Drive](https://drive.google.com/drive/folders/1tHdbces2KQ4oRbOyQuTkcjaJWZ9tdry7)
 
 find your module model (e.g., BT24, LR02, WF24),Download the complete resource package directly
 
-### ③ Official Website
-Visit our official website for product info and support section:
-Website: https://en.szdx-smart.com
-Path: Support → Data Download
-
----
-
-
-## 🎬 Video Tutorials
-YouTube Official Channel: https://www.youtube.com/@DX-SMART
-Search your module model for step-by-step tutorials.
+### ③ [Official Website](https://en.szdx-smart.com)
 
 ---
 
