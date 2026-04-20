@@ -5,6 +5,10 @@ If you encounter any issues during use, please contact our support team before l
 
 Your satisfaction is our top priority.
 
+- 📧 Email: [manager@szdx-smart.com](mailto:manager@szdx-smart.com)
+- 💬 WhatsApp: +86 15798463070
+- 🌐 Website: [en.szdx-smart.com](https://en.szdx-smart.com/)
+
 ---
 
 ## 📦 Module Repository
@@ -35,19 +39,8 @@ Browse the repository list above to find the folder corresponding to your module
 
 ### ② [Google Drive](https://drive.google.com/drive/folders/1tHdbces2KQ4oRbOyQuTkcjaJWZ9tdry7)
 
-
-
 ### ③ [Official Website](https://en.szdx-smart.com)
 
----
-
-## 🤝 Get in Touch
-**SHEN ZHEN DX-SMART TECHNOLOGY CO.,LTD**
-
-- 📧 Email: [manager@szdx-smart.com](mailto:manager@szdx-smart.com)
-- 💬 WhatsApp: +86 15798463070
-- 🌐 Website: [en.szdx-smart.com](https://en.szdx-smart.com/)
-- 📍 Address: 601, A1 Block, Huafengzhigu, Hang Kong Road, Hang Cheng Street, Baoan District, Shenzhen
 
 ---
 
