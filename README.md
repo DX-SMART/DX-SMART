@@ -8,6 +8,7 @@ Your satisfaction is our top priority.
 - 📧 Email: [manager@szdx-smart.com](mailto:manager@szdx-smart.com)
 - 💬 WhatsApp: +86 15798463070
 - 🌐 Website: [en.szdx-smart.com](https://en.szdx-smart.com/)
+- YouTube Official Channel: https://www.youtube.com/@DX-SMART
 
 ---
 
@@ -21,12 +22,6 @@ Click the link below to access the corresponding module resource package:
 - [Wireless Adapter](https://github.com/DX-SMART/WIRELESS-ADAPTER): Wireless Adapter Package
 - [2.4G Module](https://github.com/DX-SMART/2.4GhzModule): 2.4G Wireless Module Package
 - [GPS Module ](https://github.com/DX-SMART/GPS-MODULE): GPS Positioning Module Package
-
----
-
-## 🎬 Video Tutorials
-YouTube Official Channel: https://www.youtube.com/@DX-SMART
-Search your module model for step-by-step tutorials.
 
 ---
 
