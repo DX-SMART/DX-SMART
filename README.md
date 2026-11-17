@@ -15,6 +15,7 @@ Your satisfaction is our top priority.
 ## 📦 Module Repository
 Click the link below to access the corresponding module resource package:
 - [Beacon](https://github.com/DX-SMART/BLUETOOTH-BEACON): Bluetooth Beacon Module Package
+- [dxibeacon-v1.0](https://github.com/DX-SMART/dxibeacon-v1.0): dxibeacon-sdk 
 - [LoRa Module](https://github.com/DX-SMART/LORAMODULE): LoRa Module Package
 - [LoRaWAN Module](https://github.com/DX-SMART/LORAWANMODULE): LoRaWAN Module Package
 - [Bluetooth Module](https://github.com/DX-SMART/BLUETOOTH-MODULE): Bluetooth Module Package
